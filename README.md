@@ -10,6 +10,7 @@ This document outlines the functionalities, models, and routes for the voting pr
     * [Routes](#routes)
     * [Additional Considerations](#additional-considerations)
     * [Flow Diagram](#flow-diagram)
+    * [Use of Link](#use-of-link)
 
 ## Functionalities
 
@@ -89,3 +90,10 @@ The routes are grouped functionally for better organization:
 ## Flow Diagram
 
 ![Flow Diagram](Voting%20Application%20Flow%20Diagram.drawio.svg)
+
+## Use of Link
+
+- You can make http request to deplyed link as follows
+- link : https://votingappilactionbackend.onrender.com
+- user request link/signup or link/login
+- similar for candiates and admin
